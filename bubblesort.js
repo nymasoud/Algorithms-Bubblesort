@@ -22,4 +22,5 @@ function bubblesort(arr){
 console.log(arr);
 }
 
-bubblesort ([33,10,7,38,58,65,50,17,2,26])
+//bubblesort ([33,10,7,38,58,65,50,17,2,26]);
+bubblesort([33,10,7,38,58,65,50,17,2,26]);
